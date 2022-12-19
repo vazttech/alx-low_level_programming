@@ -1,7 +1,8 @@
-/**
- * main file creating header files
- * all header files
+/*
+ * file: main.h
  *
+ * desc: header file containining declarations for all functions
+ * used in the 0x02 functions_nested_looops directory
  */
 int _putchar(char c);
 void print_alphabet(void);

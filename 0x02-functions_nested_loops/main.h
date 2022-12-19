@@ -1,5 +1,6 @@
 /**
-  * main - <this contains all the header files>
+  * main.h - this contains all the header functions
+  * Return: 0
 */
 
 int _putchar(char c);

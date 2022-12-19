@@ -1,6 +1,7 @@
 /**
   * main.h - this contains all the header functions
   * Return: 0
+  * the program should return 0
 */
 
 int _putchar(char c);

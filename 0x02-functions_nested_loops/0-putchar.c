@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
-  * main- this contains all the header functions
-  * @a: this is a variable
+  * main- the program prints _putchar
   * Return: 0
 */
 

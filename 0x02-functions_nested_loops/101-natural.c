@@ -92,4 +92,25 @@ void putnchar(int num)
  * Return: sum
  */
 int sumr(int start, int end, int step)
+{
+	int sum = 0, i;
 
+	for (i = start; i < end; i += step)
+	{
+		sum += i;
+	}
+	return (sum);
+
+}
+/**
+ * main - prints the sum of all numbers under 1024
+ * that are divisible by 3 or 5
+ * Return: 0
+ */
+int main(void)
+{
+
+	putnchar(sumr(3, 1024, 3) + sumr(5, 1024, 5) - sumr(15, 1024, 15));
+	_putchar('\n');
+	return (0);
+}

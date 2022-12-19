@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main -prints putchar followed by a new line
- *
- * treturn: to be 0
- */
+  * main- this contains all the header functions
+  * @a: this is a variable
+  * Return: 0
+*/
+
 
 int main(void)
 

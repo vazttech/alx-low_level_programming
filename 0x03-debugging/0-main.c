@@ -2,7 +2,6 @@
 
 /**
  * main - tests function that prints if integer is positve or nagtive
- *
  * Return: 0
  */
 
